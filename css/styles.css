@@ -1,0 +1,15 @@
+#header {
+    background-color: aqua;
+    padding: 1em;
+}
+
+#container {
+    width: 80%;
+    padding: 1em;
+}
+
+#footer {
+    background-color: blueviolet;
+    text-align: center;
+    padding: 1em;
+}
